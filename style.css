@@ -1,0 +1,24 @@
+#container{
+  margin: auto;
+}
+body{
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-image: url(./Fundo\ Juridico.avif);
+  background-size:cover;
+}
+h1{
+ margin-left: 450px;
+ align-items: center;
+ 
+}
+#nav{
+  align-items: center;
+  margin-left: 400px;
+  margin-top: 200px;
+}
+p{
+  
+  margin-right: 300px;
+  color: rgb(0, 0, 0);
+}
